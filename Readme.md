@@ -1,3 +1,4 @@
+# 复制过来当初主要是为了学习Zuul的限流特性（liyanchao）
 
 # Spring Cloud Netflix 分布式微服务实践
 
